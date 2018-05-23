@@ -1,7 +1,3 @@
-//Name: Tatiana Joseph
-//FSUID: tj14
-//Assigment 2
-
 import java.io.*;
 import java.util.Scanner;
 import java.util.Random;
